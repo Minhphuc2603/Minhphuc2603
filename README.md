@@ -8,6 +8,7 @@ Learning about AI, ML, and data-driven solutions
 🌱 Currently Learning
 Advanced JavaScript and TypeScript
 Backend frameworks like Node.js and NextJS
+
 CI/CD pipelines and cloud infrastructure
 💞️ Collaboration
 Open to collaborating on interesting projects in web development or AI applications.
