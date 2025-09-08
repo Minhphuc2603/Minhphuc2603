@@ -6,13 +6,9 @@
 
 ---
 
-## 🔥 Songoku mode
+ 🔥 
 <img src="(https://media.tenor.com/G5WsY-wrJ58AAAAM/goku-goku-happy.gif)" width="300"/>
 
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=phuctrinh&show_icons=true&theme=radical)
 
 ---
 
