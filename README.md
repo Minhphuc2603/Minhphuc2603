@@ -1,10 +1,5 @@
 # 👋 Xin chào! Mình là Phúc
 
-💻 Backend Developer hướng đến FullStack  
-⚡ Đam mê API & Microservices  
----
-
-# 🔥 Hi
 <div align="center">
   <img src="https://raw.githubusercontent.com/Minhphuc2603/Minhphuc2603/main/goku-goku-happy.gif" width="300"/>
 </div>
