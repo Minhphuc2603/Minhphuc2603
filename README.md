@@ -7,7 +7,7 @@
 ---
 
  🔥 
-<img src="(https://media.tenor.com/G5WsY-wrJ58AAAAM/goku-goku-happy.gif)" width="300"/>
+<img src="(https://github.com/Minhphuc2603/Minhphuc2603/blob/main/goku-goku-happy.gif)" width="300"/>
 
 
 ---
