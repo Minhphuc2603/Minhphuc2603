@@ -7,7 +7,7 @@
 ---
 
 ## 🔥 Songoku mode
-<img src="[https://media.tenor.com/CMVqZ0I0rkEAAAAC/goku-dragon-ball.gif](https://media.tenor.com/G5WsY-wrJ58AAAAM/goku-goku-happy.gif)" width="300"/>
+<img src="(https://media.tenor.com/G5WsY-wrJ58AAAAM/goku-goku-happy.gif)" width="300"/>
 
 ---
 
