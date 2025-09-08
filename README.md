@@ -2,17 +2,12 @@
 
 💻 Backend Developer hướng đến FullStack  
 ⚡ Đam mê API & Microservices  
-
-
 ---
 
 # 🔥 Hi
 <div align="center">
   <img src="https://raw.githubusercontent.com/Minhphuc2603/Minhphuc2603/main/goku-goku-happy.gif" width="300"/>
 </div>
-
-
-
 
 ---
 
@@ -23,4 +18,4 @@
 
 ---
 
-📫 Liên hệ: [Facebook](https://linkedin.com/in/USERNAME) | [Email](mailto:trinhphuc980@gmail.com) 
+📫 Liên hệ: [Facebook](https://www.facebook.com/minhphuc2603) | [Email](mailto:trinhphuc980@gmail.com) 
